@@ -49,6 +49,8 @@ ___
 ![Logo markdown](md.png "Logo markdown")
 ## Reglas de Github para markdown
 * [x] Tarea 1
-* [] Tarea 2
-* [] Tarea 3
+* [ ] Tarea 2
+* [ ] Tarea 3
 * [x] Tarea 4
+
+:smiley: :+1:
